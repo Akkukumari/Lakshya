@@ -1,0 +1,36 @@
+.header{
+    background-color:rgb(31, 53, 104);
+       height: 50px;
+    /* padding-top: 10px; */
+         display: flex;
+     margin: auto;
+}
+.firstbody{
+  display: flex;
+  gap: 30px;
+  margin-top: 8px;
+  /* border: 1px solid red; */
+  color: white;
+font-weight: 700; 
+     /* margin: auto; */
+     /* width: 300px; */
+}
+.first{
+ margin-left: 140px;
+}
+.middle{
+  color: rgb(192, 192, 44);
+  font-weight: 700;
+  /* width: 500px; */
+  margin-top: 8px;
+ /* border: 1px solid red; */
+margin-left: 300px;
+}
+.third{
+  /* border: 1px solid red; */
+  color: white;
+  margin-top: 8px;
+  margin-left: 550px;
+  font-weight: 600;
+  font-size: 17px;
+}
